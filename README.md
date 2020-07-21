@@ -14,20 +14,18 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Ram's Cloud Journey
 
-[✍️ Introduce yourself]
+I have been a QA Engineer for the last 7 years. I have always been wanted to enter the world of cloud computing and building serverless applications. I want to be an "early-adopter" of cloud as I still consider cloud is it's early stages. Getting in front of what is currently the trend, I think, would really help me down the line. 
 
-[✍️ Tell us why you started this challenge]
+I came across the #100DaysOfCloud hashtag and immediately got hooked. Learning has always been fun and this just adds a bit of camraderie and community to it. So as for goals, I would like to have atleast scheduled the SAA C02 exam by the end of it and en-route to appear for a GCP exam.
 
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- https://twitter.com/LandThatCloud
+- https://www.linkedin.com/in/ram-bharadwaj-ramaiyah-77744043/
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > Zoomed through fundamentals of EC2, S3, CloudWatch, CFN, HA/DR/FT Policies, DNS & Route53.(Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
