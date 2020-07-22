@@ -26,7 +26,7 @@ I came across the #100DaysOfCloud hashtag and immediately got hooked. Learning h
 ## Stepping out the door
 
 - [ ] ☁️ 1 > Zoomed through fundamentals of EC2, S3, CloudWatch, CFN, HA/DR/FT Policies, DNS & Route53.(Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 2 > AWS: DNS deepdive, Route53 & DNS record types.GCP: Fundamentals (Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
