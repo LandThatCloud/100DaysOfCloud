@@ -21,7 +21,7 @@ I have been a QA Engineer for the last 7 years. I have always been wanted to ent
 I came across the #100DaysOfCloud hashtag and immediately got hooked. Learning has always been fun and this just adds a bit of camraderie and community to it. So as for goals, I would like to have atleast scheduled the SAA C02 exam by the end of it and en-route to appear for a GCP exam.
 
 - https://twitter.com/LandThatCloud
-- https://www.linkedin.com/in/ram-bharadwaj-ramaiyah-77744043/
+- https://www.linkedin.com/in/ram-ramaiyah/
 
 ## Stepping out the door
 
